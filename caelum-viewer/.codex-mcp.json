@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "caelum-viewer": {
+      "command": "./server/CaelumViewer.exe",
+      "args": ["mcp"],
+      "cwd": "."
+    }
+  }
+}

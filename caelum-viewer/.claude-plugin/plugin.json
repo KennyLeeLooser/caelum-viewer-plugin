@@ -1,0 +1,9 @@
+{
+  "name": "caelum-viewer",
+  "displayName": "Caelum 3D-Viewer",
+  "version": "1.1.0",
+  "description": "3D-Dateien (GLB, glTF, OBJ, STL, 3MF, DXF; FBX, USDZ, BLEND über Blender) ansehen und als PNG, JPG, PDF-Datenblatt oder GIF ausgeben. Befehle /caelum-viewer:ansehen, :gif, :datenblatt.",
+  "author": { "name": "Caelum GmbH, Kenny Looser" },
+  "license": "LicenseRef-Caelum-Freeware",
+  "keywords": ["3d", "glb", "gltf", "stl", "3mf", "dxf", "gif", "pdf", "viewer", "caelum"]
+}

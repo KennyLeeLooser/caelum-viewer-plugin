@@ -1,0 +1,20 @@
+{
+  "name": "caelum-viewer",
+  "interface": {
+    "displayName": "Caelum 3D-Viewer"
+  },
+  "plugins": [
+    {
+      "name": "caelum-viewer",
+      "source": {
+        "source": "local",
+        "path": "./caelum-viewer"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

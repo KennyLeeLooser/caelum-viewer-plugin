@@ -1,0 +1,12 @@
+{
+  "name": "caelum-viewer",
+  "owner": { "name": "Caelum GmbH" },
+  "description": "Caelum 3D-Viewer als Plugin (Caelum GmbH, Kenny Looser)",
+  "plugins": [
+    {
+      "name": "caelum-viewer",
+      "source": "./caelum-viewer",
+      "description": "3D-Dateien ansehen und als PNG, JPG, PDF-Datenblatt oder GIF ausgeben: MCP-Server, Skill und Befehle."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "caelum-viewer": {
+      "command": "${CLAUDE_PLUGIN_ROOT}/server/CaelumViewer.exe",
+      "args": ["mcp"]
+    }
+  }
+}

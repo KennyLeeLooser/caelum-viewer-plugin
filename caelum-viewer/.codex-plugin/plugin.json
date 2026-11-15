@@ -1,0 +1,22 @@
+{
+  "name": "caelum-viewer",
+  "version": "1.1.0",
+  "description": "Caelum 3D-Viewer für Codex: 3D-Dateien ansehen und als PNG, JPG, PDF-Datenblatt oder GIF ausgeben.",
+  "author": { "name": "Caelum GmbH, Kenny Looser" },
+  "license": "LicenseRef-Caelum-Freeware",
+  "keywords": ["3d", "glb", "gltf", "stl", "3mf", "dxf", "gif", "pdf", "viewer", "caelum"],
+  "skills": "./skills/",
+  "mcpServers": "./.codex-mcp.json",
+  "interface": {
+    "displayName": "Caelum 3D-Viewer",
+    "shortDescription": "3D-Modelle ansehen, Bilder, Datenblätter und GIFs ausgeben",
+    "longDescription": "Öffnet GLB, glTF, OBJ, STL, 3MF und DXF direkt (FBX, USDZ und BLEND über ein installiertes Blender) und gibt Ansichten als PNG, JPG, PDF-Datenblatt mit Maßen oder GIF aus – als 360°-Drehung, Kamerafahrt oder Animation, ohne Abschneiden. Alles läuft lokal auf deinem PC.",
+    "developerName": "Caelum GmbH",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "defaultPrompt": ["Zeig mir dieses 3D-Modell von vorne."],
+    "brandColor": "#D97757",
+    "composerIcon": "./.claude-plugin/icon.png",
+    "logo": "./.claude-plugin/icon.png"
+  }
+}

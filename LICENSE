@@ -1,0 +1,36 @@
+Caelum 3D-Viewer – Plugin für Claude Code und Codex
+Copyright © 2026 Caelum GmbH, Kenny Looser. Alle Rechte vorbehalten.
+
+FREEWARE-LIZENZ (Deutsch)
+
+1. Erlaubt: Du darfst dieses Plugin (Manifeste, Skill, Befehle und das Programm „CaelumViewer.exe“ samt MCP-Server)
+   kostenlos herunterladen, installieren und privat wie beruflich nutzen. Du darfst es unverändert und kostenlos
+   weitergeben, solange dieser Lizenztext, der Copyright-Hinweis und THIRD-PARTY-NOTICES.md dabei bleiben.
+2. Nicht erlaubt: Verkaufen, Vermieten oder gegen Entgelt Weitergeben; Verändern, Zurückentwickeln (Decompilieren,
+   Disassemblieren), soweit das Gesetz es nicht ausdrücklich erlaubt; Teile in eigene Produkte übernehmen; das Plugin
+   unter anderem Namen oder als eigenes Werk ausgeben.
+3. Deine Modelle und die daraus erzeugten Bilder, PDFs und GIFs gehören dir bzw. den jeweiligen Rechteinhabern.
+4. Marken: „Caelum“, „CAELUM“ und „Caelum 3D-Viewer“ sind Kennzeichen der Caelum GmbH. Diese Lizenz gibt keine Rechte daran.
+5. Drittanbieter-Bestandteile stehen unter ihren eigenen Lizenzen (siehe caelum-viewer/THIRD-PARTY-NOTICES.md).
+6. Gewährleistung: Das Plugin wird ohne Gewähr bereitgestellt, so wie es ist. Die Caelum GmbH haftet nur bei Vorsatz,
+   grober Fahrlässigkeit und nach zwingendem Recht (z. B. Produkthaftungsgesetz, Verletzung von Leben, Körper, Gesundheit).
+7. Die Caelum GmbH kann diese Lizenz für künftige Versionen ändern. Für eine bereits bezogene Version gilt der Text,
+   der ihr beilag.
+
+FREEWARE LICENSE (English)
+
+1. Permitted: You may download, install and use this plugin (manifests, skill, commands and the program
+   "CaelumViewer.exe" including its MCP server) free of charge for private and commercial work. You may redistribute it
+   unmodified and free of charge, provided this license text, the copyright notice and THIRD-PARTY-NOTICES.md remain included.
+2. Not permitted: selling, renting or redistributing it for a fee; modifying or reverse engineering it (decompiling,
+   disassembling) except where the law expressly allows it; incorporating parts into your own products; presenting the
+   plugin under another name or as your own work.
+3. Your models and the images, PDFs and GIFs created from them belong to you or their respective rights holders.
+4. Trademarks: "Caelum", "CAELUM" and "Caelum 3D-Viewer" are marks of Caelum GmbH. This license grants no rights to them.
+5. Third-party components are under their own licenses (see caelum-viewer/THIRD-PARTY-NOTICES.md).
+6. Warranty: The plugin is provided "as is", without warranty of any kind. Caelum GmbH is liable only for intent, gross
+   negligence and where liability is mandatory by law.
+7. Caelum GmbH may change this license for future versions. A version you already obtained remains under the text that
+   came with it.
+
+If the German and English texts differ, the German text prevails.
