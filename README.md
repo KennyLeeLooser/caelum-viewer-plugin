@@ -5,7 +5,9 @@ Dieses Repo ist ein Plugin-Marktplatz (`caelum-viewer`) mit dem Plugin `caelum-v
 
 - **Formate:** GLB, glTF, OBJ, STL, 3MF, DXF direkt; FBX, USDZ und BLEND über ein installiertes [Blender](https://www.blender.org/).
 - **Ausgabe:** PNG, JPG, PDF-Datenblatt mit Maßen, GIF als 360°-Drehung, Kamerafahrt oder Animation – ohne Abschneiden.
-- **Vorschau:** Claude bekommt ein Bild zurück und sieht das Modell selbst.
+- **Vorschau:** Claude bekommt ein Bild zurück und sieht das Modell selbst; `show_model` zeigt es als echte 3D-Ansicht im Chat (drehen, zoomen, Animation, GIF).
+
+**Ohne Installation (ChatGPT und claude.ai im Browser):** Connector bzw. eigenen MCP-Server mit der Adresse `https://api.caelum.one/viewer/mcp` hinzufügen (keine Anmeldung). Modelle kommen dort als öffentliche https-Adresse oder Upload; Dateien auf dem eigenen PC gehen nur mit diesem Plugin.
 
 ## 1. Voraussetzungen
 - Windows 10/11 (x64)
@@ -33,7 +35,7 @@ Hast du den MCP-Server `caelum-viewer` schon von Hand eingetragen, entferne dies
 ## 3. Was das Plugin mitbringt
 | Teil | Claude Code | Codex |
 |---|---|---|
-| MCP-Server `caelum-viewer`: `model_info`, `preview`, `render`, `make_gif`, `render_folder`, `list_presets`, `open_in_viewer`, `show_model` | ✓ | ✓ |
+| MCP-Server `caelum-viewer`: `find_models`, `model_info`, `preview`, `render`, `make_gif`, `render_folder`, `list_presets`, `open_in_viewer`, `show_model` | ✓ | ✓ |
 | Skill `caelum-viewer` (wann und wie die Werkzeuge helfen) | ✓ | ✓ |
 | Befehle `/caelum-viewer:ansehen`, `:gif`, `:datenblatt` | ✓ | – |
 

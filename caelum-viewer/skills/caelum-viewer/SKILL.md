@@ -19,7 +19,8 @@ Der Viewer rendert lokal (Software-Renderer, kein Fenster nötig). Ausgaben land
 - `render_folder(folder, formats?, …)` – alle Modelle eines Ordners mit denselben Blickrichtungen.
 - `list_presets()` – Standardsätze (Standard, GIF-Rundgang, GIF-Präsentation, GIF-Drehung 360°, Technisch, eigener Satz).
 - `open_in_viewer(path)` – Datei im Viewer-Fenster öffnen (nur wenn der Nutzer das Fenster will).
-- `show_model(path)` – Vorschau mit Widget (für Hosts mit MCP-Apps-Unterstützung).
+- `find_models(query, type, sort)` – 3D-Dateien auf dem PC finden (wie die 3D-Suche im Fenster); liefert Pfade für die anderen Werkzeuge.
+- `show_model(path)` – interaktive 3D-Ansicht im Chat (Widget für Hosts mit MCP-Apps-Unterstützung, z. B. ChatGPT): echtes 3D per WebGL – ziehen zum Drehen, Rad/zwei Finger zum Zoomen, Ansichten, Animation mit Zeitschieber, GIF.
 
 ## Vorgehen
 1. Erst `model_info` oder `preview`, damit du weißt, was im Modell steckt (Größe, Ausrichtung, Animationen).

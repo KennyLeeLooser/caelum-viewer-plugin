@@ -1,6 +1,6 @@
 {
   "name": "caelum-viewer",
-  "version": "1.1.0",
+  "version": "1.3.0",
   "description": "Caelum 3D-Viewer für Codex: 3D-Dateien ansehen und als PNG, JPG, PDF-Datenblatt oder GIF ausgeben.",
   "author": { "name": "Caelum GmbH, Kenny Looser" },
   "license": "LicenseRef-Caelum-Freeware",
